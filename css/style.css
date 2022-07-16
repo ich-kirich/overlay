@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background: #f7f6f2;
+}
+.up {
+    margin: 0px;
+    min-height: 50%;
+    content: '';
+    background-color: #a1bd57;
+}
+.down {
+    position: relative;
+    top: -100px;
+    width: 400px;
+    min-height: 250px;
+    margin: auto;
+    background: #fff;
+    border: 3px solid #dad6cf;
+}
